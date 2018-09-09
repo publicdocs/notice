@@ -12,7 +12,8 @@ Additional contributors may be viewed at https://publicdocs.github.io/notice/CON
 
 == PROJECT SOFTWARE:
 
-Unless otherwise noted, Project software available at https://github.com/publicdocs-platform,
+Unless other license terms are indicated,
+Project software available at https://github.com/publicdocs-platform,
 excluding third-party content, is licensed under the Apache License,
 Version 2.0 (the "Software License"); you may not use such software except
 in compliance with the Software License. You may obtain a copy of the Software License at
@@ -23,13 +24,16 @@ Unless required by applicable law or agreed to in writing, software
 distributed under the Software License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the Software License for the specific language governing permissions and
-limitations under the Software License. This file constitutes the NOTICE file
-under Section 4(d) of the Software License.
+limitations under the Software License. 
+
+This file serves as the NOTICE file under Section 4(d) of the Software License
+and must be included as specified therein.
 
 
 == OTHER PROJECT CONTENT:
 
-Unless otherwise noted, all other Project content (excluding third-party content
+Unless other license terms are indicated,
+all other Project content (excluding third-party content
 and excluding Project software available at https://github.com/publicdocs-platform)
 is licensed under the Creative Commons Attribution-ShareAlike 4.0 International
 License (the "Content License"), available at
@@ -67,7 +71,8 @@ content and its metadata:
 2) may not express the opinions of the Project or Project Entities;
 3) do not imply endorsement of any third-party by the Project or Project Entities, nor vice-versa;
 4) do not constitute legal advice or other professional advice of any kind;
-5) may be used only for educational or informational purposes.
+5) may be used only for educational or informational purposes and must not be relied
+   upon in connection with preserving the safety of life or property.
 
 This notice may not be removed from copies of this document.
 
